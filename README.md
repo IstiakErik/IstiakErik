@@ -1,9 +1,7 @@
-<!-- Heading -->
-<h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Greetings! I'm Erik</h3>
+<h2 align="left">Greetings! I'm Erik<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
-- ⚙️ I do: `.py`, `.js`, `.html`, `.css`
-- 👀 Currently working on something cool!
-- 🌐 Visit my [portfolio website](https://istiakerik.github.io/) for more information.
+👀 Currently working on something cool!
+🌐 Visit my [portfolio website](https://istiakerik.github.io/) for more information.
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
