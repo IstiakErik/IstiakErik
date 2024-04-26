@@ -5,7 +5,7 @@
 - 👀 Currently working on something cool!
 - 🌐 Visit my [portfolio website](https://istiakerik.github.io/) for more information.
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
