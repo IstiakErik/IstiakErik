@@ -3,7 +3,7 @@
 
 - ⚙️ I do: `.py`, `.js`, `.html`, `.css`
 - 👀 Currently working on something cool!
-- 🌐 Visit my [portfolio website]((https://istiakerik.github.io/)) for more information.
+- 🌐 Visit my [portfolio website](https://istiakerik.github.io/) for more information.
 
 <!---
 IstiakErik/IstiakErik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
