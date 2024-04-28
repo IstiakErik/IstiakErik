@@ -1,6 +1,5 @@
 <h2 align="left">Greetings! I'm Erik<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
-<p>👀 Currently working on something cool!</p>
 <p>🌐 For more info Visit https://istiakerik.github.io/ </p>
 
 <p align="left">
