@@ -22,11 +22,15 @@
 
 
 ## Current GitHub Stats 📊
+
+---
 ![Stats](https://github-readme-stats.vercel.app/api?username=istiakerik&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiakerik&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 > Check Commits below, GitHub stats are sometimes inaccurate due to caching.
 
 ## GitHub Streaks 🔥
+
+---
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=istiakerik&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 <!--
