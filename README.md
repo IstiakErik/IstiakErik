@@ -1,4 +1,5 @@
 <h2 align="left">Greetings! I'm Erik<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 <p>🌐 For more visit https://istiakerik.github.io/ </p>
 
