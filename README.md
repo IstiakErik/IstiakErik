@@ -23,7 +23,6 @@
 
 ## Current GitHub Stats 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=istiakerik&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiakerik&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 
