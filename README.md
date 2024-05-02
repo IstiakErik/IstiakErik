@@ -4,7 +4,7 @@
 <h2 align="left">Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
 
-<p>🌐 https://istiakerik.github.io/ </p>
+<p>🌐 https://istiakerik.github.io/ <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></p>
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
