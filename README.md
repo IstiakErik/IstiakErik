@@ -1,4 +1,4 @@
-<h2 align="left">Greetings! I'm Erik<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+<h2 align="left">Hi<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
 
 <p>🌐 For more info visit https://istiakerik.github.io/ </p>
