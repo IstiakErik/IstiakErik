@@ -20,14 +20,14 @@
 
 
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=istiakerik&theme=jolly&date_format=j%20M%5B%20Y%5D)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiakerik&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+
 
 
 
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=istiakerik&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
   
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=istiakerik&theme=jolly&date_format=j%20M%5B%20Y%5D)
+
 </a>
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
