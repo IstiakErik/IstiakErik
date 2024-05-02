@@ -18,18 +18,13 @@
   </a>
 </p>
 
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=istiakerik&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-  
-
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
-
-
-<a href=#><img src="lol.svg"></a>
-
+```txt
+JavaScript   1 hr 20 mins    ████████████████████████░   96.29 %
+TypeScript   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+```
 
 
 
