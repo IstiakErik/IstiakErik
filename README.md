@@ -19,16 +19,14 @@
 </p>
 
 
-
-## GitHub Streaks 
-
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=istiakerik&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
-
-
-## Current GitHub Stats 
-
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiakerik&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+
+
+
+
+
+
 
 
 
