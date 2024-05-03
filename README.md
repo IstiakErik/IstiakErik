@@ -16,7 +16,9 @@
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=VishwaGauravIn&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 
-<h3>Socials:</h3>
+### Get in Touch
+
+---
 
  
 <div> 
