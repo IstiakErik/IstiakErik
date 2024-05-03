@@ -1,12 +1,11 @@
 ### Hi! I'm Erik. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
----
+
 
 
 
 <p>🌐 Visit for more Info: https://istiakerik.github.io/ </p>
 
-![Jav](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 
 
 
