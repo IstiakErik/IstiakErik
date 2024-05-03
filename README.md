@@ -1,4 +1,7 @@
-<h2>Hi! I'm Erik. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
+### Hi! I'm Erik. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+
+---
+
 
 
 <p>🌐 Visit for more Info: https://istiakerik.github.io/ </p>
@@ -59,5 +62,5 @@
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=VishwaGauravIn&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=istiakerik&pretty=true)](https://visitcount.itsvg.in)
 
