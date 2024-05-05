@@ -4,7 +4,7 @@
 
 
 
-<p>🌐 Visit for more Info: https://istiakerik.github.io/ </p>
+<p>🌐 Visit: https://istiakerik.github.io/ </p>
 
 
 
