@@ -3,7 +3,7 @@
 
 
 <p>I'm a student and a passionate Web and Software developer still on the learning phase.</p>
-<p>🌐 Visit for more information:  https://istiakerik.github.io/ </p>
+<p>🌐 Visit my portfolio for more information:  https://istiakerik.github.io/ </p>
 
 
 
