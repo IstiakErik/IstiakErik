@@ -2,26 +2,25 @@
 
 
 
-
-
+<p>I'm a student and a passionate Web and Software developer still on the learning phase.</p>
 <p>🌐 Visit for more information:  https://istiakerik.github.io/ </p>
 
 
 
 
-### GitHub Stats 📊
+### My GitHub Stats 📊
 
 ---
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 
-### GitHub Streaks 🔥
+### Streaks 🔥
 
 ---
 ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=istiakerik&theme=jolly&date_format=j%20M%5B%20Y%5D)
 
 
-### Get in Touch
+### Get in Touch with Me
 
 ---
 
@@ -34,7 +33,7 @@
   
 </div>
 
-### Languages
+### Languages I know
 
 ---
 
@@ -46,7 +45,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 
 
-### Design/Visual Tools
+### Design/Visual Tools I use
 
 ---
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
@@ -57,7 +56,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 
-### Random Things
+### Random Things just Ignore
 
 ---
 
