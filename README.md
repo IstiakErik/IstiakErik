@@ -1,5 +1,5 @@
 ### Hi! I'm Erik. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-
+---
 
 
 <p>I'm a student and a passionate Web and Software developer still on the learning phase.</p>
