@@ -11,7 +11,7 @@
 ### My GitHub Stats 📊
 
 ---
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=istiakerik&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
 
 
 ### Streaks 🔥
