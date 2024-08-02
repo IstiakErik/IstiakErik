@@ -1,4 +1,4 @@
-### Hi! I'm Erik. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+### Sup Y'all! I'm Erik. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 ---
 
 
