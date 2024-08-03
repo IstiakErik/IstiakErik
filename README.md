@@ -2,7 +2,7 @@
 ---
 
 
-<p>I'm a student and a passionate Web and Software developer, currently on the learning phase. Visit my Portfolio Website for more information:  🌐  https://istiakerik.github.io/ </p>
+<p>🌐 I'm a student and a passionate Web and Software developer, currently on the learning phase. Visit my Portfolio Website for more information:  https://istiakerik.github.io/ </p>
 <p></p>
 
 
