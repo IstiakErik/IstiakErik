@@ -56,7 +56,7 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 
-### Random Things just Ignore
+### Random Things (For looking cool)
 
 ---
 
