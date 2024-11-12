@@ -17,7 +17,7 @@
 ### Streaks 🔥
 
 ---
-![Streaks](http://github-readme-streak-stats.herokuapp.com?user=istiakerik&theme=jolly&date_format=j%20M%5B%20Y%5D)
+<div align="center"> ![Streaks](http://github-readme-streak-stats.herokuapp.com?user=istiakerik&theme=jolly&date_format=j%20M%5B%20Y%5D) </div>
 
 
 ### Get in Touch with Me
