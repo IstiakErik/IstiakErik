@@ -1,7 +1,6 @@
 ### 'Sup yall, I'm Erik. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
 
-
 <p>🌐 I'm a student and a passionate Web and Software developer, currently on the learning phase. Visit my Portfolio Website if you want to know more about me:  https://istiakerik.github.io/ </p>
 <p></p>
 
